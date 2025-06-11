@@ -100,7 +100,3 @@ This project shows how to:
 - Prepare pipelines for deployment in bioprocess monitoring systems  
 
 ---
-
-## 📬 Contact
-
-For questions, feel free to reach out or mention this project in your application to **IRUBIS**.
